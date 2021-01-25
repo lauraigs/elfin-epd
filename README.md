@@ -1,2 +1,2 @@
-# elfin-idl
-Here is all the work I do in IDL for UCLA's ELFIN project.
+# elfin-epd-phasedel
+Here is all the work I do for ELFIN's epd data. 
